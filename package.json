@@ -3,7 +3,7 @@
   "version": "1.0.0-beta",
   "description": "A shopping cart platform with Express, React and Postgres",
   "files": [
-    "bin",
+    "bin ",
     "src",
     "dist",
     ".babelrc",
